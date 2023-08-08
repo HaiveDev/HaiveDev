@@ -16,6 +16,5 @@
     </a>
 </div>
 <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=haivedev&theme=dark" alt="haivedev" style="float: left; width: 45%;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=haivedev&theme=dark" alt="haivedev" style="float: left; width: 45%;" />
 </div>
-

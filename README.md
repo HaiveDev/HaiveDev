@@ -8,6 +8,9 @@
     </a>
 </h4>
 
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=haivedev&show_icons=true&theme=midnight-purple&layout=pie" alt="haivedev" style="float: left; width: 45%;" />
+</div>
 
 
 <div align="center">
@@ -15,6 +18,4 @@
         <img src="https://lanyard.cnrad.dev/api/897660552892002304" alt="Discord Presence" style="float: right; width: 45%;" />
     </a>
 </div>
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=haivedev&theme=dark" alt="haivedev" style="float: left; width: 45%;" />
-</div>
+

@@ -10,7 +10,7 @@
 
 <div align="center">
     <a href="https://discord.com/users/897660552892002304">
-        <img src="https://lanyard.cnrad.dev/api/897660552892002304?theme=dark&idleMessage=Probably%20doing%20something%20else..." alt="Discord Presence" style="float: right; width: 45%;" />
+        <img src="https://lanyard.cnrad.dev/api/897660552892002304?theme=transparent&idleMessage=Probably%20doing%20something%20else..." alt="Discord Presence" style="float: right; width: 45%;" />
     </a>
 </div>
 

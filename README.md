@@ -9,7 +9,8 @@
 </h4>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=haivedev&show_icons=true&theme=midnight-purple&layout=pie" alt="haivedev" style="float: left; width: 45%;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=haivedev&show_icons=true&theme=midnight-purple&layout=pie" alt="haivedev" style="float: left; width: 50%;" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haivedev&layout=pie" alt="haivedev" style="float: left; width: 50%;" />
 </div>
 
 

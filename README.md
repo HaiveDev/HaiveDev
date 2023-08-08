@@ -7,4 +7,7 @@
 </p>
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=haivedev&theme=dark" alt="haivedev" /></p>
-[![Discord Presence](https://lanyard.cnrad.dev/api/897660552892002304)](https://discord.com/users/897660552892002304)
+
+<a href="https://discord.com/users/897660552892002304">
+      <img src="https://lanyard.cnrad.dev/api/897660552892002304" alt="Discord Presence">
+</a>

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Haiver</h1>
-<h3 align="center">A passionate developer, currently learning Angular</h3>
+<h3 align="center">A passionate developer front-end</h3>
 <p align="center"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a> </p>
 
 <h4 align="center">Connect with me: <a href="https://discord.com/users/897660552892002304" target="blank"><img align="center"

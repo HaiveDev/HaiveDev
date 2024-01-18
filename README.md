@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Haiver</h1>
-<h3 align="center">A passionate developer front-end</h3>
-<p align="center"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a> </p>
+<h3 align="center">A passionate web developer front-end</h3>
 
-<h4 align="center">Connect with me: <a href="https://discord.com/users/897660552892002304" target="blank"><img align="center"
-        src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6ca814282eca7172c6_icon_clyde_white_RGB.svg"
-        alt="897660552892002304" height="25" width="25" />
-    </a>
+
+<h4 align="center">Connect with me: contact@haiver.dev
 </h4>
-
+<p align="center">
+        <a href="https://discord.com/users/897660552892002304" target="blank">
+                <img align="center" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6ca814282eca7172c6_icon_clyde_white_RGB.svg" alt="897660552892002304" height="25" width="25" />
+        </a>
+</p>
 
 <div align="center">
     <a href="https://discord.com/users/897660552892002304">

@@ -16,3 +16,8 @@
     </a>
 </div>
 
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=HaiveDev&color=green)
+
+</div>

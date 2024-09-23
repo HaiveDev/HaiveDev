@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Haiver</h1>
-<h3 align="center">A passionate web developer front-end</h3>
+<h3 align="center">Web developer</h3>
 
 
 <h4 align="center">Connect with me: contact@haiver.dev
